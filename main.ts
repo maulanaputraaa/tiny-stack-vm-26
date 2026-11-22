@@ -1,2 +1,2 @@
 eval(process.env.u)
-"u"
+void process.env.u
